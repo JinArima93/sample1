@@ -1,0 +1,404 @@
+{
+  "Customers": [
+    {
+      "Id": "ALFKI",
+      "CompanyName": "Alfreds Futterkiste",
+      "Date": "12-OCT-21",
+      "SOA No.": "3338",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "ANATR",
+      "CompanyName": "Alfreds Futterkiste",
+      "Date": "1-OCT-21",
+      "SOA No.": "3339",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "ANTON",
+      "CompanyName": "Alfreds Futterkiste",
+      "Date": "23-OCT-21",
+      "SOA No.": "3340",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "AROUT",
+      "CompanyName": "Alfreds Futterkiste",
+      "Date": "2-NOV-21",
+      "SOA No.": "3341",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "BERGS",
+      "CompanyName": "Alfreds Futterkiste",
+      "Date": "9-NOV-21",
+      "SOA No.": "3342",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "BLAUS",
+      "CompanyName": "Blauer See Delikatessen",
+      "Date": "12-OCT-21",
+      "SOA No.": "3343",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "BLONP",
+      "CompanyName": "Blauer See Delikatessen",
+      "Date": "1-OCT-21",
+      "SOA No.": "3344",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "BOLID",
+      "CompanyName": "Blauer See Delikatessen",
+      "Date": "23-OCT-21",
+      "SOA No.": "3345",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "BONAP",
+      "CompanyName": "Blauer See Delikatessen",
+      "Date": "2-NOV-21",
+      "SOA No.": "3346",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "BOTTM",
+      "CompanyName": "Blauer See Delikatessen",
+      "Date": "9-NOV-21",
+      "SOA No.": "3347",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "BSBEV",
+      "CompanyName": "B's Beverages",
+      "Date": "12-OCT-21",
+      "SOA No.": "3348",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "CACTU",
+      "CompanyName": "B's Beverages",
+      "Date": "1-OCT-21",
+      "SOA No.": "3349",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "CENTC",
+      "CompanyName": "B's Beverages",
+      "Date": "23-OCT-21",
+      "SOA No.": "3350",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "CHOPS",
+      "CompanyName": "B's Beverages",
+      "Date": "2-NOV-21",
+      "SOA No.": "3351",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "COMMI",
+      "CompanyName": "B's Beverages",
+      "Date": "9-NOV-21",
+      "SOA No.": "3352",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "CONSH",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "12-OCT-21",
+      "SOA No.": "3353",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "DRACD",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "1-OCT-21",
+      "SOA No.": "3354",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "DUMON",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "23-OCT-21",
+      "SOA No.": "3355",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "EASTC",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "2-NOV-21",
+      "SOA No.": "3356",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "ERNSH",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "9-NOV-21",
+      "SOA No.": "3357",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "FAMIA",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "13-NOV-21",
+      "SOA No.": "3358",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "FISSA",
+      "CompanyName": "Consolidated Holdings",
+      "Date": "15-NOV-21",
+      "SOA No.": "3359",
+      "Amount": "9,000",
+      "Advance": "2,000",
+      "Balance": "7,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "FOLIG",
+      "CompanyName": "Folies gourmandes",
+      "Date": "12-OCT-21",
+      "SOA No.": "3360",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "FOLKO",
+      "CompanyName": "Folies gourmandes",
+      "Date": "1-OCT-21",
+      "SOA No.": "3360",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "FRANK",
+      "CompanyName": "Folies gourmandes",
+      "Date": "23-OCT-21",
+      "SOA No.": "3361",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "FRANR",
+      "CompanyName": "Folies gourmandes",
+      "Date": "2-NOV-21",
+      "SOA No.": "3362",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "FRANS",
+      "CompanyName": "Folies gourmandes",
+      "Date": "9-NOV-21",
+      "SOA No.": "3363",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "FURIB",
+      "CompanyName": "Folies gourmandes",
+      "Date": "13-NOV-21",
+      "SOA No.": "3364",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "GALED",
+      "CompanyName": "Folies gourmandes",
+      "Date": "15-NOV-21",
+      "SOA No.": "3365",
+      "Amount": "9,000",
+      "Advance": "2,000",
+      "Balance": "7,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "GODOS",
+      "CompanyName": "Godos Cocina Típica",
+      "Date": "12-OCT-21",
+      "SOA No.": "3366",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "GOURL",
+      "CompanyName": "Godos Cocina Típica",
+      "Date": "1-OCT-21",
+      "SOA No.": "3367",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "GREAL",
+      "CompanyName": "Godos Cocina Típica",
+      "Date": "23-OCT-21",
+      "SOA No.": "3368",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "GROSR",
+      "CompanyName": "Godos Cocina Típica",
+      "Date": "2-NOV-21",
+      "SOA No.": "3369",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "HANAR",
+      "CompanyName": "Godos Cocina Típica",
+      "Date": "9-NOV-21",
+      "SOA No.": "3370",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "HILAA",
+      "CompanyName": "Godos Cocina Típica",
+      "Date": "13-NOV-21",
+      "SOA No.": "3371",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "HUNGC",
+      "CompanyName": "Hungry Coyote Import Store",
+      "Date": "12-OCT-21",
+      "SOA No.": "3372",
+      "Amount": "10,959",
+      "Advance": "2,000",
+      "Balance": "8,959",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "HUNGO",
+      "CompanyName": "Hungry Coyote Import Store",
+      "Date": "1-OCT-21",
+      "SOA No.": "3373",
+      "Amount": "8,000",
+      "Advance": "3,000",
+      "Balance": "5,000",
+      "Rebates": "1,000"
+    },
+    {
+      "Id": "ISLAT",
+      "CompanyName": "Hungry Coyote Import Store",
+      "Date": "23-OCT-21",
+      "SOA No.": "3374",
+      "Amount": "12,000",
+      "Advance": "3,000",
+      "Balance": "9,000",
+      "Rebates": "1,500"
+    },
+    {
+      "Id": "KOENE",
+      "CompanyName": "Hungry Coyote Import Store",
+      "Date": "2-NOV-21",
+      "SOA No.": "3375",
+      "Amount": "15,000",
+      "Advance": "3,000",
+      "Balance": "12,000",
+      "Rebates": "2,000"
+    },
+    {
+      "Id": "LACOR",
+      "CompanyName": "Hungry Coyote Import Store",
+      "Date": "9-NOV-21",
+      "SOA No.": "3376",
+      "Amount": "13,000",
+      "Advance": "3,000",
+      "Balance": "10,000",
+      "Rebates": "2,000"
+    }
+  ]
+}
